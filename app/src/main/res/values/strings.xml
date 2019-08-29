@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">paddemo</string>
+
+    <string name="load_more_loading">正在加载…</string>
+    <string name="load_more_success">上拉加载更多</string>
+    <string name="load_more_fail">加载失败,点击重试</string>
+    <string name="load_more_finish"> </string>
+
+    <string name="text_slash">/</string>
+    <string name="text_sort_complete_num">商品种类数/分拣数量：</string>
+    <string name="text_inventory_name">处理人：</string>
+
+    <!--instruction-->
+    <string name="toast_1">事务打印请使用Aidl模式!</string>
+    <string name="toast_2">服务已断开!</string>
+    <string name="toast_3">蓝牙设备不可用</string>
+    <string name="toast_4">未检测到蓝牙设备，请打开蓝牙</string>
+    <string name="toast_5">未发现InnterPrinter!</string>
+    <string name="toast_6">蓝牙连接失败!</string>
+    <string name="toast_7">AIDL 暂时只打印单个二维码</string>
+    <string name="toast_8">两个二维码尺寸最大为7</string>
+    <string name="toast_9">条码类型或内容不正确!</string>
+</resources>

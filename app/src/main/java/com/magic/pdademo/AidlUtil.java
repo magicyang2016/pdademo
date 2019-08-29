@@ -23,6 +23,7 @@ import woyou.aidlservice.jiuiv5.IWoyouService;
 
 
 public class AidlUtil {
+    int b=0;
     private static final String SERVICE＿PACKAGE = "woyou.aidlservice.jiuiv5";
     private static final String SERVICE＿ACTION = "woyou.aidlservice.jiuiv5.IWoyouService";
 
